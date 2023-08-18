@@ -14,7 +14,7 @@ public class demo1 {
 		System.out.println("cUrl: "+cUrl);
 		Thread.sleep(40001);
 		driver.close();
-		
+		System.out.println("this is new");
 		
 	}
 }
